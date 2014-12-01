@@ -1,5 +1,3 @@
-#app-plugins
-
 ##Photoshop-plugins
 ###WebLayerSave
 PhotoShopのスライスがあまり好きになれないので、FireworksのWebLayerを使用するみたいな感覚でスライスして保存できるようなプラグインです。
